@@ -349,6 +349,7 @@ mod if_unmodified_since;
 mod last_modified;
 mod location;
 mod pragma;
+mod range;
 mod referer;
 mod server;
 mod set_cookie;
